@@ -2985,3 +2985,55 @@ Memory consumption went from 159.8 MB to 154.5 MB.
 Total: 12.365100 ms (FindLiveObjects: 0.964600 ms CreateObjectMapping: 0.456100 ms MarkObjects: 6.106400 ms  DeleteObjects: 4.836700 ms)
 
 Prepare: number of updated asset objects reloaded= 0
+========================================================================
+Received Import Request.
+  Time since last request: 1838.324205 seconds.
+  path: Assets/Materials
+  artifactKey: Guid(409057a71049ab844b93fa7b6a23fe90) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Materials using Guid(409057a71049ab844b93fa7b6a23fe90) Importer(815301076,1909f56bfc062723c751e8b465ee728b) (PreviewImporter) -> (artifact id: '522c062a2ebfaa7d68ff83eb84ec1b87') in 0.0020831 seconds
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 0
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000023 seconds.
+  path: Assets/Materials/BlueMat.mat
+  artifactKey: Guid(5f05372bc7de33a4bb57a60687500ebe) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Materials/BlueMat.mat using Guid(5f05372bc7de33a4bb57a60687500ebe) Importer(815301076,1909f56bfc062723c751e8b465ee728b) (PreviewImporter) -> (artifact id: '1c96c65b0535e67300eeaca58c1bca40') in 0.5529655 seconds
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 1
+
+========================================================================
+Received Import Request.
+  Time since last request: 2.841238 seconds.
+  path: Assets/Street/street.mat
+  artifactKey: Guid(56db78dab62054b1bac85d9d7235323e) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Street/street.mat using Guid(56db78dab62054b1bac85d9d7235323e) Importer(815301076,1909f56bfc062723c751e8b465ee728b) (PreviewImporter) -> (artifact id: '208c2c47e0a131bf3007601461fa5e9f') in 2.250863 seconds
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 3
+
+========================================================================
+Received Import Request.
+  Time since last request: 12.229126 seconds.
+  path: Assets/Street/Resources
+  artifactKey: Guid(69b41a9487fac49ba9738bd8fea9352f) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Street/Resources using Guid(69b41a9487fac49ba9738bd8fea9352f) Importer(815301076,1909f56bfc062723c751e8b465ee728b) (PreviewImporter) -> (artifact id: '7c8072b7cde672a9c50a5217ae785e26') in 0.0005267 seconds
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 0
+
+========================================================================
+Received Import Request.
+  Time since last request: 1.636278 seconds.
+  path: Assets/Street/Resources/Prefabs
+  artifactKey: Guid(171859de7937d4829bc691f1cb5225e9) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Street/Resources/Prefabs using Guid(171859de7937d4829bc691f1cb5225e9) Importer(815301076,1909f56bfc062723c751e8b465ee728b) (PreviewImporter) -> (artifact id: '6d76b5eae5c06ab86ec3c9e695eb1574') in 0.0007927 seconds
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 0
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.052548 seconds.
+  path: Assets/Street/Resources/Prefabs/Builds.prefab
+  artifactKey: Guid(1beae96f32c76ad4b83936a7662db828) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Street/Resources/Prefabs/Builds.prefab using Guid(1beae96f32c76ad4b83936a7662db828) Importer(815301076,1909f56bfc062723c751e8b465ee728b) (PreviewImporter) -> (artifact id: '3e8b45fbaddb293e9ba4970b63d6df00') in 5.5430646 seconds
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 5460
+
+Editor requested this worker to shutdown with reason: Scaling down because of idle timeout
+AssetImportWorker is now disconnected from the server
+Process exiting
+Exiting without the bug reporter. Application will terminate with return code 0
