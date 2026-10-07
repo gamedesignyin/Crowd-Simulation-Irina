@@ -228,7 +228,7 @@ AnimatorState:
   m_Tag: 
   m_SpeedParameter: speedMult
   m_MirrorParameter: 
-  m_CycleOffsetParameter: wOffset
+  m_CycleOffsetParameter: speedMult
   m_TimeParameter: 
 --- !u!1102 &1102782993359100862
 AnimatorState:

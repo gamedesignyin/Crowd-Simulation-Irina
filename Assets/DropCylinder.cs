@@ -20,12 +20,24 @@ public class DropCylinder : MonoBehaviour
         {
             RaycastHit hitInfo;
             Ray ray = Camera.main.ScreenPointToRay(Input.mousePosition);
+
             if (Physics.Raycast(ray.origin, ray.direction, out hitInfo))
             {
-                Instantiate(obstacle, hitInfo.point, obstacle.transform.rotation);
+                if (obstacle != null)
+                {
+                    Instantiate(obstacle, hitInfo.point, obstacle.transform.rotation);
+                }
+
                 foreach (GameObject a in agents)
                 {
-
+                    if (a != null)
+                    {
+                        AIControl ai = a.GetComponent<AIControl>();
+                        if (ai != null)
+                        {
+                            ai.DetectNewObstacle(hitInfo.point);
+                        }
+                    }
                 }
             }
         }
