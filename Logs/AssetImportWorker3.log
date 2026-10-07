@@ -511,3 +511,143 @@ Memory consumption went from 138.3 MB to 134.1 MB.
 Total: 10.647700 ms (FindLiveObjects: 1.191900 ms CreateObjectMapping: 0.998700 ms MarkObjects: 5.183700 ms  DeleteObjects: 3.272100 ms)
 
 Prepare: number of updated asset objects reloaded= 0
+========================================================================
+Received Import Request.
+  Time since last request: 6959.860699 seconds.
+  path: Assets/Crowd.unity
+  artifactKey: Guid(4f21ed7f8a13740449d0160601413652) Importer(2089858483,192608db42251d675da83286b1cce702)
+Start importing Assets/Crowd.unity using Guid(4f21ed7f8a13740449d0160601413652) Importer(2089858483,192608db42251d675da83286b1cce702) (ScriptedImporter) -> (artifact id: '5d06dc71ee4bdffcf848d65c42bb9b42') in 0.2229347 seconds
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 1
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000019 seconds.
+  path: Assets/Street/Resources/Assets/Materials/tents_blocks_05-08_03.mat
+  artifactKey: Guid(c84f50a210c194748ad80e0b13097f92) Importer(2089858483,192608db42251d675da83286b1cce702)
+Start importing Assets/Street/Resources/Assets/Materials/tents_blocks_05-08_03.mat using Guid(c84f50a210c194748ad80e0b13097f92) Importer(2089858483,192608db42251d675da83286b1cce702) (ScriptedImporter) -> (artifact id: '2b30f80eef36da1968151add8ceaa3ff') in 0.0893233 seconds
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 3
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000023 seconds.
+  path: Assets/Street/Resources/Assets/Materials/Shops0038_S.mat
+  artifactKey: Guid(108861ecaa4fd4d47a8cead256bdf16d) Importer(2089858483,192608db42251d675da83286b1cce702)
+Start importing Assets/Street/Resources/Assets/Materials/Shops0038_S.mat using Guid(108861ecaa4fd4d47a8cead256bdf16d) Importer(2089858483,192608db42251d675da83286b1cce702) (ScriptedImporter) -> (artifact id: 'dbfb6b2b2266984a07a66d74f0866932') in 0.0251068 seconds
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 3
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000023 seconds.
+  path: Assets/Street/Resources/Assets/Materials/tent.mat
+  artifactKey: Guid(f4f2d9f250ae4ff44961a4eff51a50a7) Importer(2089858483,192608db42251d675da83286b1cce702)
+Start importing Assets/Street/Resources/Assets/Materials/tent.mat using Guid(f4f2d9f250ae4ff44961a4eff51a50a7) Importer(2089858483,192608db42251d675da83286b1cce702) (ScriptedImporter) -> (artifact id: '4b1c8f2655d03e94ff5908cc82992804') in 0.0404109 seconds
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 3
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000017 seconds.
+  path: Assets/Street/Resources/Assets/Materials/Shops0052_Spaz3.mat
+  artifactKey: Guid(378e6f8cf65a62848b9d5752f6153e86) Importer(2089858483,192608db42251d675da83286b1cce702)
+Start importing Assets/Street/Resources/Assets/Materials/Shops0052_Spaz3.mat using Guid(378e6f8cf65a62848b9d5752f6153e86) Importer(2089858483,192608db42251d675da83286b1cce702) (ScriptedImporter) -> (artifact id: '61db62bd0cd23cfbf154b906e4db9019') in 0.0815068 seconds
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 3
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000019 seconds.
+  path: Assets/Street/Resources/Assets/Materials/sign-motorola1.mat
+  artifactKey: Guid(e5ca116cc5fbc0e40bd9e7f6a50ab787) Importer(2089858483,192608db42251d675da83286b1cce702)
+Start importing Assets/Street/Resources/Assets/Materials/sign-motorola1.mat using Guid(e5ca116cc5fbc0e40bd9e7f6a50ab787) Importer(2089858483,192608db42251d675da83286b1cce702) (ScriptedImporter) -> (artifact id: 'c75617f19d3e04044ffb1aa988e448c6') in 0.0211172 seconds
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 3
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000024 seconds.
+  path: Assets/Street/Resources/Assets/Materials/tent_002.mat
+  artifactKey: Guid(58d298244a5dca8429ef49091d450c7b) Importer(2089858483,192608db42251d675da83286b1cce702)
+Start importing Assets/Street/Resources/Assets/Materials/tent_002.mat using Guid(58d298244a5dca8429ef49091d450c7b) Importer(2089858483,192608db42251d675da83286b1cce702) (ScriptedImporter) -> (artifact id: 'e00783203246eba7a394304c75390817') in 0.0337057 seconds
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 3
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000014 seconds.
+  path: Assets/Street/Resources/Assets/Materials/tents_blocks_05-08_02.mat
+  artifactKey: Guid(36bade257cd0370459b360c58d8c13a4) Importer(2089858483,192608db42251d675da83286b1cce702)
+Start importing Assets/Street/Resources/Assets/Materials/tents_blocks_05-08_02.mat using Guid(36bade257cd0370459b360c58d8c13a4) Importer(2089858483,192608db42251d675da83286b1cce702) (ScriptedImporter) -> (artifact id: 'f8cdb4bc0ecad1735f3f38eabddffbad') in 0.0683753 seconds
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 3
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000024 seconds.
+  path: Assets/Street/Resources/Assets/Materials/tents_blocks_05-08_01.mat
+  artifactKey: Guid(f1b8dcfa0a06dea47b2b7ac6618c26fe) Importer(2089858483,192608db42251d675da83286b1cce702)
+Start importing Assets/Street/Resources/Assets/Materials/tents_blocks_05-08_01.mat using Guid(f1b8dcfa0a06dea47b2b7ac6618c26fe) Importer(2089858483,192608db42251d675da83286b1cce702) (ScriptedImporter) -> (artifact id: '8d935df9b61c9d2d5f7471aaca227bfe') in 0.0478626 seconds
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 3
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000023 seconds.
+  path: Assets/Street/Resources/Assets/Materials/sign_001.mat
+  artifactKey: Guid(796bdd97ac72dac4aa1b05c061ebe8e2) Importer(2089858483,192608db42251d675da83286b1cce702)
+Start importing Assets/Street/Resources/Assets/Materials/sign_001.mat using Guid(796bdd97ac72dac4aa1b05c061ebe8e2) Importer(2089858483,192608db42251d675da83286b1cce702) (ScriptedImporter) -> (artifact id: '7bb65483d841f94755b011c6fa4587fa') in 0.0559223 seconds
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 3
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000027 seconds.
+  path: Assets/Street/Resources/Assets/Materials/tents_blocks_05-08_08.mat
+  artifactKey: Guid(16cafb984f94e724db4fedcc5d214cec) Importer(2089858483,192608db42251d675da83286b1cce702)
+Start importing Assets/Street/Resources/Assets/Materials/tents_blocks_05-08_08.mat using Guid(16cafb984f94e724db4fedcc5d214cec) Importer(2089858483,192608db42251d675da83286b1cce702) (ScriptedImporter) -> (artifact id: '4689cb08b9bf1549e0258c5386a91cc3') in 0.0279326 seconds
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 3
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000016 seconds.
+  path: Assets/Street/Resources/Assets/Materials/MarbleGreen0014_21_S.mat
+  artifactKey: Guid(76fccb8fc85dbc2469275c6abc5a7c2a) Importer(2089858483,192608db42251d675da83286b1cce702)
+Start importing Assets/Street/Resources/Assets/Materials/MarbleGreen0014_21_S.mat using Guid(76fccb8fc85dbc2469275c6abc5a7c2a) Importer(2089858483,192608db42251d675da83286b1cce702) (ScriptedImporter) -> (artifact id: 'e4d0d10eea6b0209ea4fffe53de2094d') in 0.0437566 seconds
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 3
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000016 seconds.
+  path: Assets/Street/Resources/Assets/Materials/Shops0130_2_M_01.mat
+  artifactKey: Guid(f483de0650ce5ba4c904df0c8a3f6c2c) Importer(2089858483,192608db42251d675da83286b1cce702)
+Start importing Assets/Street/Resources/Assets/Materials/Shops0130_2_M_01.mat using Guid(f483de0650ce5ba4c904df0c8a3f6c2c) Importer(2089858483,192608db42251d675da83286b1cce702) (ScriptedImporter) -> (artifact id: '1dd48792a85436dacfe775583fd22290') in 0.0785807 seconds
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 3
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000021 seconds.
+  path: Assets/Street/Resources/Assets/Materials/repisa.mat
+  artifactKey: Guid(7d6a42e2bca17ca42b94e500fbcddaf6) Importer(2089858483,192608db42251d675da83286b1cce702)
+Start importing Assets/Street/Resources/Assets/Materials/repisa.mat using Guid(7d6a42e2bca17ca42b94e500fbcddaf6) Importer(2089858483,192608db42251d675da83286b1cce702) (ScriptedImporter) -> (artifact id: 'c3828b2dec8449859eb7ae9a3e88410e') in 0.055216 seconds
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 3
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000025 seconds.
+  path: Assets/Street/Resources/Assets/Materials/Shops0054_M_paz.mat
+  artifactKey: Guid(4a5f5913e2272c142ab0f5bccbe124ce) Importer(2089858483,192608db42251d675da83286b1cce702)
+Start importing Assets/Street/Resources/Assets/Materials/Shops0054_M_paz.mat using Guid(4a5f5913e2272c142ab0f5bccbe124ce) Importer(2089858483,192608db42251d675da83286b1cce702) (ScriptedImporter) -> (artifact id: 'd2cdec0a3f525bcbee8c46b957fc915e') in 0.0414537 seconds
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 3
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000068 seconds.
+  path: Assets/Street/Resources/Assets/Materials/Shops0217_M_3.mat
+  artifactKey: Guid(a2b80fe639cdaad4a8413a2da9902efe) Importer(2089858483,192608db42251d675da83286b1cce702)
+Start importing Assets/Street/Resources/Assets/Materials/Shops0217_M_3.mat using Guid(a2b80fe639cdaad4a8413a2da9902efe) Importer(2089858483,192608db42251d675da83286b1cce702) (ScriptedImporter) -> (artifact id: '4e5bb45313f9cc0dd40291b6aff137a8') in 0.0475409 seconds
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 3
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000017 seconds.
+  path: Assets/Street/Resources/Assets/Materials/sign-cocacola2.mat
+  artifactKey: Guid(4c20910ae00bf36499cda9fd69a1d829) Importer(2089858483,192608db42251d675da83286b1cce702)
+Start importing Assets/Street/Resources/Assets/Materials/sign-cocacola2.mat using Guid(4c20910ae00bf36499cda9fd69a1d829) Importer(2089858483,192608db42251d675da83286b1cce702) (ScriptedImporter) -> (artifact id: 'f6aa0172fdb9eb3de376e8413305d898') in 0.0791494 seconds
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 3
+
+Editor requested this worker to shutdown with reason: Scaling down because of idle timeout
+AssetImportWorker is now disconnected from the server
+Process exiting
+Exiting without the bug reporter. Application will terminate with return code 0
